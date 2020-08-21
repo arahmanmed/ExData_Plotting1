@@ -4,7 +4,7 @@ setwd("C:/Users/Medicine/Desktop/EDA_project1")
 
 #loading data
 
-hhpc <- read.table("household_power_consumption.txt",skip=1,sep=";")
+hhpc <- read.table("household_power_consumption.txt",sep=";")
 
 #Naming variables
 
